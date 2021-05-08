@@ -22,6 +22,6 @@ This project was started by reddit user mvrckcompany who was kind enough to shar
 <img src="images/voron0screen.png" width="300" height="200">
 
 
-####The dht22 can be attached to the Z-carriage 
+#### The dht22 can be attached to the Z-carriage 
 
-<img src="images/dht22placement" width="300" height="200">
+<img src="images/Dht22placement.png" width="300" height="200">
