@@ -1,7 +1,4 @@
 # SSD1306-Voron-0-Display-Arduino-Code
-Voron 0 SSD1306 Display Code
-
-# SSD1306-Voron-0-Display-Arduino-Code
 
 This project was built on an Arduino Nano, using a 0.96" OLED SSD1306 screen and DHT22 temperature- and humiditysensor to monitor the enclosure. 
 
