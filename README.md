@@ -3,7 +3,7 @@
 
 While I have two ssd1306 displays in my skirt, I have one connected to the skr mini e3 v1.2 and the other to the arduino nano. The original file for the OLED Skirt uses a single OLED Display, and can be found on MadrosDK's [github page](https://github.com/madrosDK/VoronUsers/tree/master/printer_mods/madros/V0_skirt_OLED) 
 
-For reference, the display is currently set up to loop, showing the voron design and voron 0 logo for 15 seconds each, followed by 25 seconds of temperature analytics. These values can easily be adjust to the desired time within the code, merely adjust the value (in seconds).  
+For reference, the display is currently set up to loop, showing the Voron Design and Voron 0 logo for 15 seconds each, followed by 25 seconds of temperature analytics. These values can easily be adjust to the desired time within the code, merely adjust the value (in seconds).  
 
 Download the files located in the Arduino Code folder and compile them for your arduino nano. 
 
