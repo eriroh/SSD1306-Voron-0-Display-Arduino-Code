@@ -7,7 +7,7 @@ For reference, the display is currently set up to loop, showing the Voron Design
 
 Download the files located in the Voron Display Code folder and compile them for your arduino nano. 
 
-This project was started by reddit user mvrckcompany who was kind enough to share his project. The only modifications made were adding a second logo and a loop to the code.   
+This project was started by reddit user [mvrckcompany](https://www.reddit.com/r/arduino/comments/jq4i33/my_first_arduino_project_neopixels_oled_display/) who was kind enough to share his project. The only modifications made were adding a second logo and a loop to the code.   
 
 #### Temperature screen animation as created by mvrckcompany
 
