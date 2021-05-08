@@ -5,7 +5,7 @@ While I have two ssd1306 displays in my skirt, I have one connected to the skr m
 
 For reference, the display is currently set up to loop, showing the Voron Design and Voron 0 logo for 15 seconds each, followed by 25 seconds of temperature analytics. These values can easily be adjust to the desired time within the code, merely adjust the value (in seconds).  
 
-Download the files located in the Arduino Code folder and compile them for your arduino nano. 
+Download the files located in the Voron Display Code folder and compile them for your arduino nano. 
 
 This project was started by reddit user mvrckcompany who was kind enough to share his project. The only modifications made were adding a second logo and a loop to the code.   
 
