@@ -1,4 +1,4 @@
-# SSD1306-Voron-0-Display-Arduino-Code
+# SSD1306 Voron 0 Display Arduino-Code
 ### This project was built on an Arduino Nano, using a 0.96" OLED SSD1306 screen and DHT22 temperature- and humiditysensor to monitor the enclosure. 
 
 While I have two ssd1306 displays in my skirt, I have one connected to the skr mini e3 v1.2 and the other to the arduino nano. The original file for the OLED Skirt uses a single OLED Display, and can be found on MadrosDK's [github page](https://github.com/madrosDK/VoronUsers/tree/master/printer_mods/madros/V0_skirt_OLED) 
