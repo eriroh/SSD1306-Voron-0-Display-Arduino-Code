@@ -20,3 +20,8 @@ This project was started by reddit user mvrckcompany who was kind enough to shar
 #### Voron 0 Logo 
 
 <img src="images/voron0screen.png" width="300" height="200">
+
+
+####The dht22 can be attached to the Z-carriage 
+
+<img src="images/dht22placement" width="300" height="200">
