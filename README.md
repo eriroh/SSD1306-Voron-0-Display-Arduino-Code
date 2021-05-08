@@ -9,4 +9,16 @@ For reference, the display is currently set up to loop, showing the voron design
 Download the files located in the Arduino Code folder and compile them for your arduino nano. 
 
 This project was started by reddit user mvrckcompany who was kind enough to share his project. The only modifications made were adding a second logo and a loop to the code.   
- 
+
+Temperature screen animation as created by mvrckcompany
+
+<img src="images/tempscreen.png" width="300" height="200">
+
+Voron Design Logo 
+
+<img src="images/vorondesignscreen.png" width="300" height="200">
+
+Voron 0 Logo 
+
+<img src="images/voron0screen.png" width="300" height="200">
+
